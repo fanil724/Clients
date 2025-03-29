@@ -126,3 +126,4 @@ C:\Users\Фаниль\source\repos\Client\Client\bin\Debug\net9.0\Microsoft.Exte
 C:\Users\Фаниль\source\repos\Client\Client\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Фаниль\source\repos\Client\Client\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Users\Фаниль\source\repos\Client\Client\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Фаниль\source\repos\Client\Client\obj\Debug\net9.0\Client.sourcelink.json

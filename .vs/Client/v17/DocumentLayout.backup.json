@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F97A334-DCC5-4403-BCED-319EE4C8A305}|Client\\Client.csproj|c:\\users\\\u0444\u0430\u043D\u0438\u043B\u044C\\source\\repos\\client\\client\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F97A334-DCC5-4403-BCED-319EE4C8A305}|Client\\Client.csproj|solutionrelative:client\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F97A334-DCC5-4403-BCED-319EE4C8A305}|Client\\Client.csproj|c:\\users\\\u0444\u0430\u043D\u0438\u043B\u044C\\source\\repos\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F97A334-DCC5-4403-BCED-319EE4C8A305}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Client\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\AplicationDBContext.cs",
+              "RelativeToolTip": "Client\\AplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:14:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Client\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\appsettings.Development.json",
               "RelativeToolTip": "Client\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-24T15:46:15.505Z",
+              "WhenOpened": "2025-03-29T11:13:17.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "C:\\Users\\\u0424\u0430\u043D\u0438\u043B\u044C\\source\\repos\\Client\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:38:10.856Z",
               "EditorCaption": ""
