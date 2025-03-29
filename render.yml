@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-web-service
+    dockerComposePath: docker-compose.yml
+    serviceName: app  # имя сервиса из docker-compose.yml
+    env: docker
+    plan: free  # или standard, premium
