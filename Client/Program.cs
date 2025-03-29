@@ -7,12 +7,12 @@ builder.Services.AddDbContext<AplicationDBContext>(options =>
 var app = builder.Build();
 
 
-using (var scope = app.Services.CreateScope())
+/*using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<AplicationDBContext>();
     context.Database.Migrate();
-}
+}*/
 
 app.MapGet("/api", () => "Hello World!");
 app.MapGet("/api/client", async (AplicationDBContext db) =>
